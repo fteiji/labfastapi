@@ -28,7 +28,7 @@ setup(
     description="Minha API",
     url="fia.io",
     python_requires=">=3.8",   
-    author="Seu nome",
+    author="Fabio Teiji",
     packages=find_packages(exclude=["tests"]),
     include_package_data=True,
     install_requires=read_requirements("requirements.txt")     
